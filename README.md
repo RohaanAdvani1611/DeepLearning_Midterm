@@ -21,7 +21,7 @@ Used for simple EDA
 Notebook to create custom dataset from original dataset and upload on hugging face. Created dataset which allows equal spread of true and false samples. Has 10% validation set.
 
 ## Ensemble
-Use the test results from different results and respective Kaggle scores for weighted ensembling technique.
+Use the test results from different mdoels and respective Kaggle scores for weighted ensembling technique.
 
 ## Hugging Face
 We created few hugging face models and dataset to be easily accessed by the team. 
