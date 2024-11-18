@@ -1,0 +1,25 @@
+ """You are a highly skilled mathematician. Determine if the provided Answer and Explanation is the correct answer to the Question. Return True if it’s correct and False if it’s wrong. 
+
+### Question:
+{}
+
+### Answer:
+{}
+
+### Explanation:
+{}
+
+### True/False:
+{}"""
+
+
+"""You are tasked with checking if an MCQ Answer matches the final value provided in Expanded Answer. Return True if they have the same answer and False if the final answer is different. 
+
+### MCQ Answer:
+{}
+
+### Expanded Answer:
+{}
+
+### True/False:
+{}"""
