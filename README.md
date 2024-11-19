@@ -27,4 +27,4 @@ Use the test results from different mdoels and respective Kaggle scores for weig
 We created few hugging face models and dataset to be easily accessed by the team. 
 Links: 
  - [Dataset](https://huggingface.co/datasets/LinNY-DLM/train_dataset)
- - [Models](https://huggingface.co/LinNY-DLM/mixedprompting-88200)
+ - [Models](https://huggingface.co/LinNY-DLM)
